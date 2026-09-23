@@ -10,8 +10,8 @@ The thesis develops a complete, LO-state-independent framework for (1) determini
 
 | # | Project | Question | Thesis analog |
 |---|---|---|---|
-| 1 | [**Fisher Information Limits for Phase Estimation**](01-fisher-information-limits/) | What precision is achievable, and what does entanglement buy you? | Squeezed-vacuum signal beating shot noise (Ch. 5) ↔ GHZ entanglement beating the Standard Quantum Limit |
-| 2 | [**LO-Agnostic-Style Calibration for Entangled Sensing Probes**](02-lo-agnostic-calibration/) | How much of the precision lost to noise can a calibration measurement give back? | Vacuum-substitution calibration procedure (Ch. 4, Table 4.1, Eq. 4.3) ↔ reference-angle visibility calibration |
+| 1 | [**Fisher Information Limits for Phase Estimation**](01_Fisher_information_limits/) | What precision is achievable, and what does entanglement buy you? | Squeezed-vacuum signal beating shot noise (Ch. 5) ↔ GHZ entanglement beating the Standard Quantum Limit |
+| 2 | [**LO-Agnostic-Style Calibration for Entangled Sensing Probes**](02_LO-Agnostic-Calibration/) | How much of the precision lost to noise can a calibration measurement give back? | Vacuum-substitution calibration procedure (Ch. 4, Table 4.1, Eq. 4.3) ↔ reference-angle visibility calibration |
 | 3 | [**Zero-Noise Extrapolation for Quantum Sensing**](03-zero-noise-extrapolation/) | Does an independent mitigation strategy, with no reference measurement, agree with Project 2? | Deliberately-increased-noise stress testing (Ch. 5, App. A.2) ↔ gate folding + Richardson extrapolation |
 
 Each project's `theory_notes.md` includes an explicit, equation-by-equation table mapping its formalism back to the corresponding thesis chapter and equation number — the goal throughout was continuity, not three disconnected demos.
