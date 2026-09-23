@@ -21,8 +21,8 @@ Each project's `theory_notes.md` includes an explicit, equation-by-equation tabl
 A GHZ-entangled N-qubit probe reaches Heisenberg-scaling Fisher information (F ∝ N²) under ideal conditions, but loses much of that advantage under realistic gate noise. Two independent mitigation strategies — a calibration measurement modeled directly on the thesis's own procedure, and zero-noise extrapolation via gate folding — each recover roughly 85-100% of the lost Fisher information, and largely agree with each other:
 
 <p align="center">
-  <img src="01-fisher-information-limits/fisher_information_scaling.png" width="48%">
-  <img src="03-zero-noise-extrapolation/zne_vs_calibration.png" width="48%">
+  <img src="01_Fisher_information_limits/fisher_information_scaling.png" width="48%">
+  <img src="03_Zero_Noise_Extrapolation/zne_vs_calibration.png" width="48%">
 </p>
 
 ## Repository structure
